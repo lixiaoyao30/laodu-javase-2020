@@ -1,0 +1,29 @@
+# Java编译文件
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE文件
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# 编译输出
+out/
+target/
+build/
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.bak
+*~
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+
